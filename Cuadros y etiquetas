@@ -31,3 +31,14 @@
   transform: translate(-50%, -50%);
   border: 2px solid #000;
 }
+.cuadroT2 {
+  background-color: #dbffff;
+  height: 30px; 
+  width: 130px; 
+  padding-top: 1px;
+  position: absolute;
+  left: 50%;
+  top: 12%;
+  transform: translate(-50%, -100%);
+  border: 2px solid #000;
+}
