@@ -1,0 +1,10 @@
+<div class="cuadroT">
+<div1 class="titulo">Cámara 1</div1>
+</div>
+<div id="tcf1" class="backgroundoverlay">
+<i class="fal fa-temperature-frigid"></i>
+</div>
+<div1 class="cuadro">
+<div2 class="etiqueta">|tlreading(@14161[d]) |tunit(@14161)</div2>
+</div1>
+<div class="hidden" id="tcf1val">|tlreading(@14161[d])</div>
