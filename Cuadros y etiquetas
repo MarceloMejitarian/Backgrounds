@@ -42,3 +42,25 @@
   transform: translate(-50%, -100%);
   border: 2px solid #000;
 }
+.etiqueta {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: black;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+.titulo {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: black;
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, -80%);
+  white-space: nowrap;
+}
