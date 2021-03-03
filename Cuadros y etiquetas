@@ -42,16 +42,16 @@
   transform: translate(-50%, -100%);
   border: 2px solid #000;
 }
-.etiqueta {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 15px;
-  color: black;
+.cuadroT {
+  background-color: #dbffff;
+  height: 30px; 
+  width: 80px; 
+  padding-top: 1px;
   position: absolute;
   left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  white-space: nowrap;
+  top: 20%;
+  transform: translate(-50%, -100%);
+  border: 2px solid #000;
 }
 .titulo {
   font-style: normal;
